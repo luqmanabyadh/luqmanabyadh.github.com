@@ -1,13 +1,36 @@
 #main {
     width: 100%;
-    height: 400px;
+    height: 350px;
     background-color: #6cc233;
+    padding-top:50px;
+
 }
 
 #form {
-    width: 50%;
+    width: 278px;
     height: 150px;
     background-color: white;
-    margin-left: 20%;
+    margin-left: 37.5%;
     margin top: 20%;
+}
+
+.labelemail {
+    margin-left: 27.8px;
+    margin-top: 6px;
+}
+
+.labelpassword {
+    margin-left: 5px;
+    margin-top: 6px;
+
+}
+
+.namalabel {
+    width=  70px;
+    margin-left: 7px;
+    margin-top: 4px;
+}
+
+.loginlabel {
+    margin-left: 
 }
