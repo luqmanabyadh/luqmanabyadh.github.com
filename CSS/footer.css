@@ -1,8 +1,8 @@
 #footer {
     width: 100%;
     height: auto;
-    color:#ffe67c;
-    background-color:#295f2d;
+    color:#e6e0bf;
+    background-color:#5b2627 ;
     padding-top:10px;
     font-family: Bebas;
     src: url("Bebas-Regular.ttf")
@@ -29,5 +29,6 @@
     line-height: 28px;
     text-align: center;
     display:block;
+    color:#be912f;
 
 }
