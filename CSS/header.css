@@ -1,22 +1,22 @@
 #header {
     width: 100%;
-    height: 190px;
+    height: 340px;
     background-color: #5b2627 ;
+    background-image: url(../header.jpg);
+    background-size: cover;
 
 }
 
 .TIGATIK {
-    color:#e6e0bf;
+    color:#be912f;
     font-family: Roboto;
     src: url("Roboto-Condensed.ttf");
     text-align: center;
+    padding-top: 120px;
+    font-size:40px;
 
 }
 
-.gambarheader {
-    background-image: url(../header.jpg);
-    background-size: cover;
-}
 
 .navbarhead {
     background-color: #be912f;
