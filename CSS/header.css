@@ -1,6 +1,6 @@
 #header {
     width: 100%;
-    height: 170px;
+    height: 190px;
     background-color: #5b2627 ;
 
 }
@@ -10,9 +10,62 @@
     font-family: Roboto;
     src: url("Roboto-Condensed.ttf");
     text-align: center;
+
 }
 
-.backgroundheader {
-    
+.gambarheader {
+    background-image: url(../header.jpg);
+    background-size: cover;
+}
+
+.navbarhead {
+    background-color: #be912f;
+    overflow: hidden;
+    color: #e6e0bf;
+    font-family: Roboto;
+    src: url("Roboto-Condensed.ttf");
+}
+
+.home {
+    background-color: #be912f;
+    color: #e6e0bf;
+    font-family: Roboto;
+    src: url("Roboto-Condensed.ttf");
+    font-size: 27px;
+    padding-right: 9px;
+    text-decoration: none;
+
+}
+
+.ourproject {
+    background-color: #be912f;
+    color: #e6e0bf;
+    font-family: Roboto;
+    src: url("Roboto-Condensed.ttf");
+    font-size: 27px;
+    padding-right: 9px;
+    text-decoration: none;
+}
+
+.reqruitment {
+    background-color: #be912f;
+    color: #e6e0bf;
+    font-family: Roboto;
+    src: url("Roboto-Condensed.ttf");
+    font-size: 27px;
+    padding-right: 9px;
+    text-decoration: none;
+
+}
+
+.talent {
+    background-color: #be912f;
+    color: #e6e0bf;
+    font-family: Roboto;
+    src: url("Roboto-Condensed.ttf");
+    font-size: 27px;
+    padding-right: 9px;
+    text-decoration: none;
+
 }
 
